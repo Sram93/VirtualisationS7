@@ -42,6 +42,9 @@ Gérer par le docker-compose
 
 ### 4. Démarrez l'application
 
+<img width="1352" alt="Capture d’écran 2024-12-22 à 21 26 38" src="https://github.com/user-attachments/assets/00bc7e82-0a6d-4fdc-affe-83e6708ff51b" />
+
+
 #### Avec Docker Compose (recommandé)
 
 ```bash
@@ -66,6 +69,8 @@ docker-compose up --build
     }
   ]
   ```
+  <img width="1352" alt="Capture d’écran 2024-12-22 à 21 39 16" src="https://github.com/user-attachments/assets/ae8626c0-c6e8-486c-96bc-a230d39f5f5b" />
+
 
 ### 2. **POST /transactions**
 
@@ -86,6 +91,8 @@ docker-compose up --build
     "id": "64a5b2c7f2c123456789abcd"
   }
   ```
+  <img width="1352" alt="Capture d’écran 2024-12-22 à 21 39 06" src="https://github.com/user-attachments/assets/498c5904-b7fa-4612-be62-d554dbc0ee0a" />
+
 
 ### 3. **DELETE /transactions/**
 
@@ -103,6 +110,9 @@ docker-compose up --build
       "error": "Transaction non trouvée"
     }
     ```
+
+    <img width="1352" alt="Capture d’écran 2024-12-22 à 21 39 27" src="https://github.com/user-attachments/assets/43c3c22c-415a-40ae-aa16-b15b32d982fa" />
+
 
 ---
 
