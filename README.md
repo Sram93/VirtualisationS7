@@ -69,7 +69,7 @@ docker-compose up --build
     }
   ]
   ```
-  <img width="1352" alt="Capture d’écran 2024-12-22 à 21 39 16" src="https://github.com/user-attachments/assets/ae8626c0-c6e8-486c-96bc-a230d39f5f5b" />
+<img width="1352" alt="Capture d’écran 2024-12-22 à 22 54 15" src="https://github.com/user-attachments/assets/61973c30-7789-4975-8c88-31f7663ca505" />
 
 
 ### 2. **POST /transactions**
@@ -91,7 +91,8 @@ docker-compose up --build
     "id": "64a5b2c7f2c123456789abcd"
   }
   ```
-  <img width="1352" alt="Capture d’écran 2024-12-22 à 21 39 06" src="https://github.com/user-attachments/assets/498c5904-b7fa-4612-be62-d554dbc0ee0a" />
+
+  <img width="1352" alt="Capture d’écran 2024-12-22 à 22 56 19" src="https://github.com/user-attachments/assets/dc903144-ef5c-4d61-a7dd-8f365de8f5d2" />
 
 
 ### 3. **DELETE /transactions/**
@@ -110,8 +111,9 @@ docker-compose up --build
       "error": "Transaction non trouvée"
     }
     ```
+<img width="1352" alt="Capture d’écran 2024-12-22 à 22 57 09" src="https://github.com/user-attachments/assets/7b01ef3f-cd76-42fd-88f7-693aba997219" />
 
-    <img width="1352" alt="Capture d’écran 2024-12-22 à 21 39 27" src="https://github.com/user-attachments/assets/43c3c22c-415a-40ae-aa16-b15b32d982fa" />
+<img width="1352" alt="Capture d’écran 2024-12-22 à 22 58 00" src="https://github.com/user-attachments/assets/efaf92ce-1238-482f-8fe1-458df22d5273" />
 
 
 ---
