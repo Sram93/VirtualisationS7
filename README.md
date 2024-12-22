@@ -1,5 +1,5 @@
 # VirtualisationS7
-# VirtualizationProject
+
 # Gestion des Dépenses Personnelles
 
 ## Description
@@ -32,7 +32,7 @@ cd <nom_du_dossier>
 
 Gérer par le docker-compose et app.py
 
-### 3. Installez les dépendances backend
+### 3. Installez les dépendances backend et frontend
 
 ```bash
 cd backend
@@ -40,16 +40,7 @@ pip install -r requirements.txt
 ```
 Gérer par le docker-compose
 
-### 4. Installez les dépendances frontend
-
-```bash
-cd ../frontend
-npm install
-```
-
-Gérer par le docker-compose
-
-### 5. Démarrez l'application
+### 4. Démarrez l'application
 
 #### Avec Docker Compose (recommandé)
 
